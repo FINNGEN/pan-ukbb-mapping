@@ -1,0 +1,7 @@
+fg_phenotype	fg_link	ukbb_phenotype	ukbb_link	notes
+G6_PARKINSON	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_G6_PARKINSON.gz	332	gs://pan-ukbb/phecode-332-both_sexes.tsv.bgz	
+G6_MS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_G6_MS.gz	335	gs://pan-ukbb/phecode-335-both_sexes.tsv.bgz	
+H7_CATARACTSENILE	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_H7_CATARACT.gz	366.2	gs://pan-ukbb/phecode-366.2-both_sexes.tsv.bgz	
+I9_AF	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_I9_AF.gz	427.2	gs://pan-ukbb/phecode-427.2-both_sexes.tsv.bgz	
+M13_ANKYLOSPON	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_M13_ANKYLOSPON.gz	715.2	gs://pan-ukbb/phecode-715.2-both_sexes.tsv.bgz	Phecode 715.2 also includes M08.1 (juvenile ankylosing spondylitis), which is why it is a worse match than M45. However, UKBB did not run M45, so 715.2 is the closest match. There is also a phenotype 20002/1313, which is some sort of ankylospon.
+T1D	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_T1D.gz	E10	gs://pan-ukbb/icd10-E10-both_sexes.tsv.bgz	
