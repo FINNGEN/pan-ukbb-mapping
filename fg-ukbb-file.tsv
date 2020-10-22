@@ -19,47 +19,47 @@ ALCOHOLMENTAL	gs://finngen-production-library-green/finngen_R6/finngen_R6_analys
 ALCOLIVER	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_ALCOLIVER.gz	317.11	gs://pan-ukbb-refinery/munged/phecode-317.11-both_sexes.tsv.bgz.lifted.gz.munged.gz
 APPENDACUT_NOCOMPLIC	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_APPENDACUT_NOCOMPLIC.gz	540.11	gs://pan-ukbb-refinery/munged/phecode-540.11-both_sexes.tsv.bgz.lifted.gz.munged.gz
 APPENDICITIS_BROAD	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_APPENDICITIS_BROAD.gz	540.1	gs://pan-ukbb-refinery/munged/phecode-540.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		278.1	gs://pan-ukbb-refinery/munged/phecode-278.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
+ARTHROSIS_COMORB		278.1	gs://pan-ukbb-refinery/munged/phecode-278.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
 ASTHMA_CHILD	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_ASTHMA_CHILD.gz	495	gs://pan-ukbb-refinery/munged/phecode-495-both_sexes.tsv.bgz.lifted.gz.munged.gz
 ASTHMA_HOSPITAL_MAIN	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_ASTHMA_HOSPITAL_MAIN.gz	495	gs://pan-ukbb-refinery/munged/phecode-495-both_sexes.tsv.bgz.lifted.gz.munged.gz
 ASTHMA_MODE	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_ASTHMA_MODE.gz	495.2	gs://pan-ukbb-refinery/munged/phecode-495.2-both_sexes.tsv.bgz.lifted.gz.munged.gz
 C3_ANUS_ANALCANAL	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_C3_ANUS_ANALCANAL.gz	C21	gs://pan-ukbb-refinery/munged/icd10-C21-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		191.11	gs://pan-ukbb-refinery/munged/phecode-191.11-both_sexes.tsv.bgz.lifted.gz.munged.gz
+C3_ASTROCYTOMA		191.11	gs://pan-ukbb-refinery/munged/phecode-191.11-both_sexes.tsv.bgz.lifted.gz.munged.gz
 C3_BILIARY_TRACT	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_C3_BILIARY_TRACT.gz	C24	gs://pan-ukbb-refinery/munged/icd10-C24-both_sexes.tsv.bgz.lifted.gz.munged.gz
 C3_BLADDER	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_C3_BLADDER.gz	189.21	gs://pan-ukbb-refinery/munged/phecode-189.21-both_sexes.tsv.bgz.lifted.gz.munged.gz
 C3_BONE_CARTILAGE	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_C3_BONE_CARTILAGE.gz	170.1	gs://pan-ukbb-refinery/munged/phecode-170.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		C41	gs://pan-ukbb-refinery/munged/icd10-C41-both_sexes.tsv.bgz.lifted.gz.munged.gz
+C3_BONE_CARTILAGE_NAS		C41	gs://pan-ukbb-refinery/munged/icd10-C41-both_sexes.tsv.bgz.lifted.gz.munged.gz
 C3_BRAIN	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_C3_BRAIN.gz	191.11	gs://pan-ukbb-refinery/munged/phecode-191.11-both_sexes.tsv.bgz.lifted.gz.munged.gz
 C3_BREAST	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_C3_BREAST.gz	174.11	gs://pan-ukbb-refinery/munged/phecode-174.11-females.tsv.bgz.lifted.gz.munged.gz
 C3_BREAST_HER2NEG	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_C3_BREAST_HER2NEG.gz	174.11	gs://pan-ukbb-refinery/munged/phecode-174.11-females.tsv.bgz.lifted.gz.munged.gz
-		174.11	gs://pan-ukbb-refinery/munged/phecode-174.11-females.tsv.bgz.lifted.gz.munged.gz
+C3_BREAST_HER2PLUS		174.11	gs://pan-ukbb-refinery/munged/phecode-174.11-females.tsv.bgz.lifted.gz.munged.gz
 C3_BREAST_HERNEG	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_C3_BREAST_HERNEG.gz	174.11	gs://pan-ukbb-refinery/munged/phecode-174.11-females.tsv.bgz.lifted.gz.munged.gz
 C3_BREAST_HERPLUS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_C3_BREAST_HERPLUS.gz	174.11	gs://pan-ukbb-refinery/munged/phecode-174.11-females.tsv.bgz.lifted.gz.munged.gz
 C3_BRONCHUS_LUNG	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_C3_BRONCHUS_LUNG.gz	C34	gs://pan-ukbb-refinery/munged/icd10-C34-both_sexes.tsv.bgz.lifted.gz.munged.gz
 C3_CERVIX_UTERI	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_C3_CERVIX_UTERI.gz	180.1	gs://pan-ukbb-refinery/munged/phecode-180.1-females.tsv.bgz.lifted.gz.munged.gz
 C3_COLON	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_C3_COLON.gz	C18	gs://pan-ukbb-refinery/munged/icd10-C18-both_sexes.tsv.bgz.lifted.gz.munged.gz
 C3_COLON_ADENO	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_C3_COLON_ADENO.gz	C18	gs://pan-ukbb-refinery/munged/icd10-C18-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		C18	gs://pan-ukbb-refinery/munged/icd10-C18-both_sexes.tsv.bgz.lifted.gz.munged.gz
+C3_COLON_SQUAM		C18	gs://pan-ukbb-refinery/munged/icd10-C18-both_sexes.tsv.bgz.lifted.gz.munged.gz
 C3_CONNECTIVE_SOFT_NAS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_C3_CONNECTIVE_SOFT_NAS.gz	C49	gs://pan-ukbb-refinery/munged/icd10-C49-both_sexes.tsv.bgz.lifted.gz.munged.gz
 C3_CORPUS_UTERI	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_C3_CORPUS_UTERI.gz	C54	gs://pan-ukbb-refinery/munged/icd10-C54-both_sexes.tsv.bgz.lifted.gz.munged.gz
 C3_DIGESTIVE_ORGANS_NAS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_C3_DIGESTIVE_ORGANS_NAS.gz	C26	gs://pan-ukbb-refinery/munged/icd10-C26-both_sexes.tsv.bgz.lifted.gz.munged.gz
 C3_EYE_ADNEXA	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_C3_EYE_ADNEXA.gz	C69	gs://pan-ukbb-refinery/munged/icd10-C69-both_sexes.tsv.bgz.lifted.gz.munged.gz
 C3_FEMALE_GENITAL_NAS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_C3_FEMALE_GENITAL_NAS.gz	C57	gs://pan-ukbb-refinery/munged/icd10-C57-both_sexes.tsv.bgz.lifted.gz.munged.gz
 C3_GBM	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_C3_GBM.gz	191.11	gs://pan-ukbb-refinery/munged/phecode-191.11-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		191.11	gs://pan-ukbb-refinery/munged/phecode-191.11-both_sexes.tsv.bgz.lifted.gz.munged.gz
+C3_GLIOMIX		191.11	gs://pan-ukbb-refinery/munged/phecode-191.11-both_sexes.tsv.bgz.lifted.gz.munged.gz
 C3_KIDNEY_NOTRENALPELVIS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_C3_KIDNEY_NOTRENALPELVIS.gz	189.11	gs://pan-ukbb-refinery/munged/phecode-189.11-both_sexes.tsv.bgz.lifted.gz.munged.gz
 C3_LARYNX	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_C3_LARYNX.gz	C32	gs://pan-ukbb-refinery/munged/icd10-C32-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		C22	gs://pan-ukbb-refinery/munged/icd10-C22-both_sexes.tsv.bgz.lifted.gz.munged.gz
+C3_LIVER_INTRAHEPATIC3_BILE_DUCTS		C22	gs://pan-ukbb-refinery/munged/icd10-C22-both_sexes.tsv.bgz.lifted.gz.munged.gz
 C3_LIVER_INTRAHEPATIC_BILE_DUCTS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_C3_LIVER_INTRAHEPATIC_BILE_DUCTS.gz	C22	gs://pan-ukbb-refinery/munged/icd10-C22-both_sexes.tsv.bgz.lifted.gz.munged.gz
 C3_LYMPHNODES_SECONDARY_NAS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_C3_LYMPHNODES_SECONDARY_NAS.gz	198.1	gs://pan-ukbb-refinery/munged/phecode-198.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		191.11	gs://pan-ukbb-refinery/munged/phecode-191.11-both_sexes.tsv.bgz.lifted.gz.munged.gz
+C3_MEDULLOBLASTOMA		191.11	gs://pan-ukbb-refinery/munged/phecode-191.11-both_sexes.tsv.bgz.lifted.gz.munged.gz
 C3_MELANOMA_SKIN	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_C3_MELANOMA_SKIN.gz	C43	gs://pan-ukbb-refinery/munged/icd10-C43-both_sexes.tsv.bgz.lifted.gz.munged.gz
 C3_MESOTHELIOMA	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_C3_MESOTHELIOMA.gz	C45	gs://pan-ukbb-refinery/munged/icd10-C45-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		C34	gs://pan-ukbb-refinery/munged/icd10-C34-both_sexes.tsv.bgz.lifted.gz.munged.gz
+C3_NSCLC		C34	gs://pan-ukbb-refinery/munged/icd10-C34-both_sexes.tsv.bgz.lifted.gz.munged.gz
 C3_NSCLC_ADENO	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_C3_NSCLC_ADENO.gz	C34	gs://pan-ukbb-refinery/munged/icd10-C34-both_sexes.tsv.bgz.lifted.gz.munged.gz
 C3_NSCLC_SQUAM	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_C3_NSCLC_SQUAM.gz	C34	gs://pan-ukbb-refinery/munged/icd10-C34-both_sexes.tsv.bgz.lifted.gz.munged.gz
 C3_OESOPHAGUS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_C3_OESOPHAGUS.gz	C15	gs://pan-ukbb-refinery/munged/icd10-C15-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		C76	gs://pan-ukbb-refinery/munged/icd10-C76-both_sexes.tsv.bgz.lifted.gz.munged.gz
+C3_OTHER_OR_ILLDEFINED_SITES		C76	gs://pan-ukbb-refinery/munged/icd10-C76-both_sexes.tsv.bgz.lifted.gz.munged.gz
 C3_OTHER_SKIN	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_C3_OTHER_SKIN.gz	172.2	gs://pan-ukbb-refinery/munged/phecode-172.2-both_sexes.tsv.bgz.lifted.gz.munged.gz
 C3_OVARY	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_C3_OVARY.gz	184.11	gs://pan-ukbb-refinery/munged/phecode-184.11-females.tsv.bgz.lifted.gz.munged.gz
 C3_PANCREAS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_C3_PANCREAS.gz	157	gs://pan-ukbb-refinery/munged/phecode-157-both_sexes.tsv.bgz.lifted.gz.munged.gz
@@ -72,9 +72,9 @@ C3_SMALL_INTESTINE	gs://finngen-production-library-green/finngen_R6/finngen_R6_a
 C3_STOMACH	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_C3_STOMACH.gz	C16	gs://pan-ukbb-refinery/munged/icd10-C16-both_sexes.tsv.bgz.lifted.gz.munged.gz
 C3_TESTIS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_C3_TESTIS.gz	187.2	gs://pan-ukbb-refinery/munged/phecode-187.2-males.tsv.bgz.lifted.gz.munged.gz
 C3_THYROID_GLAND	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_C3_THYROID_GLAND.gz	193	gs://pan-ukbb-refinery/munged/phecode-193-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		145.2	gs://pan-ukbb-refinery/munged/phecode-145.2-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		C02	gs://pan-ukbb-refinery/munged/icd10-C02-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		C09	gs://pan-ukbb-refinery/munged/icd10-C09-both_sexes.tsv.bgz.lifted.gz.munged.gz
+C3_TONGUE		145.2	gs://pan-ukbb-refinery/munged/phecode-145.2-both_sexes.tsv.bgz.lifted.gz.munged.gz
+C3_TONGUENAS		C02	gs://pan-ukbb-refinery/munged/icd10-C02-both_sexes.tsv.bgz.lifted.gz.munged.gz
+C3_TONSIL		C09	gs://pan-ukbb-refinery/munged/icd10-C09-both_sexes.tsv.bgz.lifted.gz.munged.gz
 C3_VULVA	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_C3_VULVA.gz	C51	gs://pan-ukbb-refinery/munged/icd10-C51-both_sexes.tsv.bgz.lifted.gz.munged.gz
 CD2_BENIGN_ADRENAL	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_CD2_BENIGN_ADRENAL.gz	227.1	gs://pan-ukbb-refinery/munged/phecode-227.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
 CD2_BENIGN_BONE_CARTILAGE	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_CD2_BENIGN_BONE_CARTILAGE.gz	213	gs://pan-ukbb-refinery/munged/phecode-213-both_sexes.tsv.bgz.lifted.gz.munged.gz
@@ -110,7 +110,7 @@ CD2_INSITU_BREAST	gs://finngen-production-library-green/finngen_R6/finngen_R6_an
 CD2_INSITU_CERVIX_UTERI	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_CD2_INSITU_CERVIX_UTERI.gz	D06	gs://pan-ukbb-refinery/munged/icd10-D06-both_sexes.tsv.bgz.lifted.gz.munged.gz
 CD2_INSITU_GENITAL	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_CD2_INSITU_GENITAL.gz	D07	gs://pan-ukbb-refinery/munged/icd10-D07-both_sexes.tsv.bgz.lifted.gz.munged.gz
 CD2_INSITU_MELANOMA	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_CD2_INSITU_MELANOMA.gz	D03	gs://pan-ukbb-refinery/munged/icd10-D03-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		D09	gs://pan-ukbb-refinery/munged/icd10-D09-both_sexes.tsv.bgz.lifted.gz.munged.gz
+CD2_INSITU_OTHER_NOS		D09	gs://pan-ukbb-refinery/munged/icd10-D09-both_sexes.tsv.bgz.lifted.gz.munged.gz
 CD2_INSITU_SKIN	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_CD2_INSITU_SKIN.gz	172.3	gs://pan-ukbb-refinery/munged/phecode-172.3-both_sexes.tsv.bgz.lifted.gz.munged.gz
 CD2_LYMPHOID_LEUKAEMIA	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_CD2_LYMPHOID_LEUKAEMIA.gz	204.1	gs://pan-ukbb-refinery/munged/phecode-204.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
 CD2_MULTIPLE_MYELOMA_PLASMA_CELL	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_CD2_MULTIPLE_MYELOMA_PLASMA_CELL.gz	C90	gs://pan-ukbb-refinery/munged/icd10-C90-both_sexes.tsv.bgz.lifted.gz.munged.gz
@@ -120,19 +120,19 @@ CD2_NONHODGKIN_NAS	gs://finngen-production-library-green/finngen_R6/finngen_R6_a
 CD2_TNK_LYMPHOMA	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_CD2_TNK_LYMPHOMA.gz	C84	gs://pan-ukbb-refinery/munged/icd10-C84-both_sexes.tsv.bgz.lifted.gz.munged.gz
 CHOLELITH_BROAD	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_CHOLELITH_BROAD.gz	574	gs://pan-ukbb-refinery/munged/phecode-574-both_sexes.tsv.bgz.lifted.gz.munged.gz
 CML	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_CML.gz	204.22	gs://pan-ukbb-refinery/munged/phecode-204.22-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		558	gs://pan-ukbb-refinery/munged/phecode-558-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		569.1	gs://pan-ukbb-refinery/munged/phecode-569.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
+COLITNONINFNAS		558	gs://pan-ukbb-refinery/munged/phecode-558-both_sexes.tsv.bgz.lifted.gz.munged.gz
+COLITTOX		569.1	gs://pan-ukbb-refinery/munged/phecode-569.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
 COPD_EARLY	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_COPD_EARLY.gz	496.21	gs://pan-ukbb-refinery/munged/phecode-496.21-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		496.21	gs://pan-ukbb-refinery/munged/phecode-496.21-both_sexes.tsv.bgz.lifted.gz.munged.gz
+COPD_EARLYANDLATER		496.21	gs://pan-ukbb-refinery/munged/phecode-496.21-both_sexes.tsv.bgz.lifted.gz.munged.gz
 COPD_HOSPITAL	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_COPD_HOSPITAL.gz	496.21	gs://pan-ukbb-refinery/munged/phecode-496.21-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		496.21	gs://pan-ukbb-refinery/munged/phecode-496.21-both_sexes.tsv.bgz.lifted.gz.munged.gz
+COPD_HOSPITAL_MAIN		496.21	gs://pan-ukbb-refinery/munged/phecode-496.21-both_sexes.tsv.bgz.lifted.gz.munged.gz
 COPD_LATER	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_COPD_LATER.gz	496.21	gs://pan-ukbb-refinery/munged/phecode-496.21-both_sexes.tsv.bgz.lifted.gz.munged.gz
 COX_ARTHROSIS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_COX_ARTHROSIS.gz	M16	gs://pan-ukbb-refinery/munged/icd10-M16-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		202.21	gs://pan-ukbb-refinery/munged/phecode-202.21-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		201	gs://pan-ukbb-refinery/munged/phecode-201-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		C83	gs://pan-ukbb-refinery/munged/icd10-C83-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		C85	gs://pan-ukbb-refinery/munged/icd10-C85-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		C84	gs://pan-ukbb-refinery/munged/icd10-C84-both_sexes.tsv.bgz.lifted.gz.munged.gz
+C_FOLLICULAR_LYMPHOMA		202.21	gs://pan-ukbb-refinery/munged/phecode-202.21-both_sexes.tsv.bgz.lifted.gz.munged.gz
+C_HODGKIN_LYMPHOMA		201	gs://pan-ukbb-refinery/munged/phecode-201-both_sexes.tsv.bgz.lifted.gz.munged.gz
+C_NONFOLLICULAR_LYMPHOMA		C83	gs://pan-ukbb-refinery/munged/icd10-C83-both_sexes.tsv.bgz.lifted.gz.munged.gz
+C_NONHODGKIN_NAS		C85	gs://pan-ukbb-refinery/munged/icd10-C85-both_sexes.tsv.bgz.lifted.gz.munged.gz
+C_TNK_LYMPHOMA		C84	gs://pan-ukbb-refinery/munged/icd10-C84-both_sexes.tsv.bgz.lifted.gz.munged.gz
 D3_ACQHAEMOLYTICANAEMIA	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_D3_ACQHAEMOLYTICANAEMIA.gz	283	gs://pan-ukbb-refinery/munged/phecode-283-both_sexes.tsv.bgz.lifted.gz.munged.gz
 D3_ACUTEPOSTBLEEDANAEMIA	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_D3_ACUTEPOSTBLEEDANAEMIA.gz	285.1	gs://pan-ukbb-refinery/munged/phecode-285.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
 D3_AGRANULOCYTOSIS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_D3_AGRANULOCYTOSIS.gz	288.1	gs://pan-ukbb-refinery/munged/phecode-288.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
@@ -157,20 +157,20 @@ D3_PURPURA_AND3_OTHER_HAEMORRHAGIC	gs://finngen-production-library-green/finngen
 D3_SARCOIDOSIS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_D3_SARCOIDOSIS.gz	D86	gs://pan-ukbb-refinery/munged/icd10-D86-both_sexes.tsv.bgz.lifted.gz.munged.gz
 D3_SCNDPOLYCYTHAEMIA	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_D3_SCNDPOLYCYTHAEMIA.gz	289.8	gs://pan-ukbb-refinery/munged/phecode-289.8-both_sexes.tsv.bgz.lifted.gz.munged.gz
 D3_SCNDTHROMBOCYTOPENIA	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_D3_SCNDTHROMBOCYTOPENIA.gz	287.32	gs://pan-ukbb-refinery/munged/phecode-287.32-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		287.32	gs://pan-ukbb-refinery/munged/phecode-287.32-both_sexes.tsv.bgz.lifted.gz.munged.gz
+D3_SCNDTHROMBOCYTOPENIA_ADVERSE		287.32	gs://pan-ukbb-refinery/munged/phecode-287.32-both_sexes.tsv.bgz.lifted.gz.munged.gz
 D3_SPLEENDISEASE	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_D3_SPLEENDISEASE.gz	289.5	gs://pan-ukbb-refinery/munged/phecode-289.5-both_sexes.tsv.bgz.lifted.gz.munged.gz
 D3_VONVILLEBRAND	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_D3_VONVILLEBRAND.gz	286.11	gs://pan-ukbb-refinery/munged/phecode-286.11-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		587	gs://pan-ukbb-refinery/munged/phecode-587-both_sexes.tsv.bgz.lifted.gz.munged.gz
+DM_KIDNEYTRANSPLANT		587	gs://pan-ukbb-refinery/munged/phecode-587-both_sexes.tsv.bgz.lifted.gz.munged.gz
 DM_OTHER_WIDE	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_DM_OTHER_WIDE.gz	E13	gs://pan-ukbb-refinery/munged/icd10-E13-both_sexes.tsv.bgz.lifted.gz.munged.gz
 DM_PERIPHATHERO	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_DM_PERIPHATHERO.gz	440.2	gs://pan-ukbb-refinery/munged/phecode-440.2-both_sexes.tsv.bgz.lifted.gz.munged.gz
 DM_RETINA_NOS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_DM_RETINA_NOS.gz	E13	gs://pan-ukbb-refinery/munged/icd10-E13-both_sexes.tsv.bgz.lifted.gz.munged.gz
 DM_RETINA_PROLIF	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_DM_RETINA_PROLIF.gz	E13	gs://pan-ukbb-refinery/munged/icd10-E13-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		E13	gs://pan-ukbb-refinery/munged/icd10-E13-both_sexes.tsv.bgz.lifted.gz.munged.gz
+DM_RETINA_PROLIF_NOS_ET_OPER		E13	gs://pan-ukbb-refinery/munged/icd10-E13-both_sexes.tsv.bgz.lifted.gz.munged.gz
 E4_ACIDOSIS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_E4_ACIDOSIS.gz	276.41	gs://pan-ukbb-refinery/munged/phecode-276.41-both_sexes.tsv.bgz.lifted.gz.munged.gz
 E4_ADRENAL	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_E4_ADRENAL.gz	E27	gs://pan-ukbb-refinery/munged/icd10-E27-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		276.42	gs://pan-ukbb-refinery/munged/phecode-276.42-both_sexes.tsv.bgz.lifted.gz.munged.gz
+E4_ALKALOSIS		276.42	gs://pan-ukbb-refinery/munged/phecode-276.42-both_sexes.tsv.bgz.lifted.gz.munged.gz
 E4_AMYLOIDOSIS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_E4_AMYLOIDOSIS.gz	E85	gs://pan-ukbb-refinery/munged/icd10-E85-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		253.7	gs://pan-ukbb-refinery/munged/phecode-253.7-both_sexes.tsv.bgz.lifted.gz.munged.gz
+E4_ANTIDIU		253.7	gs://pan-ukbb-refinery/munged/phecode-253.7-both_sexes.tsv.bgz.lifted.gz.munged.gz
 E4_CUSHING	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_E4_CUSHING.gz	255.11	gs://pan-ukbb-refinery/munged/phecode-255.11-both_sexes.tsv.bgz.lifted.gz.munged.gz
 E4_DIABINSIPIDUS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_E4_DIABINSIPIDUS.gz	253.3	gs://pan-ukbb-refinery/munged/phecode-253.3-both_sexes.tsv.bgz.lifted.gz.munged.gz
 E4_DM1	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_E4_DM1.gz	250.1	gs://pan-ukbb-refinery/munged/phecode-250.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
@@ -180,7 +180,7 @@ E4_DM2	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data
 E4_DM2REN	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_E4_DM2REN.gz	250.22	gs://pan-ukbb-refinery/munged/phecode-250.22-both_sexes.tsv.bgz.lifted.gz.munged.gz
 E4_ENDOMETPOSTOP	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_E4_ENDOMETPOSTOP.gz	E89	gs://pan-ukbb-refinery/munged/icd10-E89-both_sexes.tsv.bgz.lifted.gz.munged.gz
 E4_FLUIDELECTRO	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_E4_FLUIDELECTRO.gz	E87	gs://pan-ukbb-refinery/munged/icd10-E87-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		276.6	gs://pan-ukbb-refinery/munged/phecode-276.6-both_sexes.tsv.bgz.lifted.gz.munged.gz
+E4_FLUIDOVER		276.6	gs://pan-ukbb-refinery/munged/phecode-276.6-both_sexes.tsv.bgz.lifted.gz.munged.gz
 E4_GOITRENOD	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_E4_GOITRENOD.gz	241.1	gs://pan-ukbb-refinery/munged/phecode-241.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
 E4_HYPERCHOL	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_E4_HYPERCHOL.gz	272.11	gs://pan-ukbb-refinery/munged/phecode-272.11-both_sexes.tsv.bgz.lifted.gz.munged.gz
 E4_HYPERKALAEMIA	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_E4_HYPERKALAEMIA.gz	276.13	gs://pan-ukbb-refinery/munged/phecode-276.13-both_sexes.tsv.bgz.lifted.gz.munged.gz
@@ -194,15 +194,15 @@ E4_HYPOPIT	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_
 E4_IRON_MET	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_E4_IRON_MET.gz	275.1	gs://pan-ukbb-refinery/munged/phecode-275.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
 E4_LACTOSEINT	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_E4_LACTOSEINT.gz	E73	gs://pan-ukbb-refinery/munged/icd10-E73-both_sexes.tsv.bgz.lifted.gz.munged.gz
 E4_LIPOPROT	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_E4_LIPOPROT.gz	E78	gs://pan-ukbb-refinery/munged/icd10-E78-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		275.3	gs://pan-ukbb-refinery/munged/phecode-275.3-both_sexes.tsv.bgz.lifted.gz.munged.gz
+E4_MG_MET		275.3	gs://pan-ukbb-refinery/munged/phecode-275.3-both_sexes.tsv.bgz.lifted.gz.munged.gz
 E4_MINERAL_MET	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_E4_MINERAL_MET.gz	E83	gs://pan-ukbb-refinery/munged/icd10-E83-both_sexes.tsv.bgz.lifted.gz.munged.gz
 E4_OBESITY	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_E4_OBESITY.gz	278.1	gs://pan-ukbb-refinery/munged/phecode-278.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
 E4_OVARDYS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_E4_OVARDYS.gz	E28	gs://pan-ukbb-refinery/munged/icd10-E28-both_sexes.tsv.bgz.lifted.gz.munged.gz
 E4_PCOS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_E4_PCOS.gz	256.4	gs://pan-ukbb-refinery/munged/phecode-256.4-females.tsv.bgz.lifted.gz.munged.gz
-		275.53	gs://pan-ukbb-refinery/munged/phecode-275.53-both_sexes.tsv.bgz.lifted.gz.munged.gz
+E4_PHOS_MET		275.53	gs://pan-ukbb-refinery/munged/phecode-275.53-both_sexes.tsv.bgz.lifted.gz.munged.gz
 E4_PORBILIR	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_E4_PORBILIR.gz	E80	gs://pan-ukbb-refinery/munged/icd10-E80-both_sexes.tsv.bgz.lifted.gz.munged.gz
 E4_TESTICHYPO	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_E4_TESTICHYPO.gz	257.1	gs://pan-ukbb-refinery/munged/phecode-257.1-males.tsv.bgz.lifted.gz.munged.gz
-		257.1	gs://pan-ukbb-refinery/munged/phecode-257.1-males.tsv.bgz.lifted.gz.munged.gz
+E4_TESTICHYPO_ADVERSE		257.1	gs://pan-ukbb-refinery/munged/phecode-257.1-males.tsv.bgz.lifted.gz.munged.gz
 E4_TESTIDYS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_E4_TESTIDYS.gz	257	gs://pan-ukbb-refinery/munged/phecode-257-males.tsv.bgz.lifted.gz.munged.gz
 E4_THYROIDITAUTOIM	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_E4_THYROIDITAUTOIM.gz	245.21	gs://pan-ukbb-refinery/munged/phecode-245.21-both_sexes.tsv.bgz.lifted.gz.munged.gz
 E4_THYTOXGOITDIF	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_E4_THYTOXGOITDIF.gz	242.1	gs://pan-ukbb-refinery/munged/phecode-242.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
@@ -210,7 +210,7 @@ E4_THYTOXGOITMULT	gs://finngen-production-library-green/finngen_R6/finngen_R6_an
 E4_VIT_B_DEF	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_E4_VIT_B_DEF.gz	E53	gs://pan-ukbb-refinery/munged/icd10-E53-both_sexes.tsv.bgz.lifted.gz.munged.gz
 E4_VIT_D_DEF	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_E4_VIT_D_DEF.gz	E55	gs://pan-ukbb-refinery/munged/icd10-E55-both_sexes.tsv.bgz.lifted.gz.munged.gz
 E4_VOLUME	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_E4_VOLUME.gz	276.5	gs://pan-ukbb-refinery/munged/phecode-276.5-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		415.21	gs://pan-ukbb-refinery/munged/phecode-415.21-both_sexes.tsv.bgz.lifted.gz.munged.gz
+ERECTILE_EXCLUSION		415.21	gs://pan-ukbb-refinery/munged/phecode-415.21-both_sexes.tsv.bgz.lifted.gz.munged.gz
 F5_ALCOHOL	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_F5_ALCOHOL.gz	F10	gs://pan-ukbb-refinery/munged/icd10-F10-both_sexes.tsv.bgz.lifted.gz.munged.gz
 F5_ALZHDEMENT	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_F5_ALZHDEMENT.gz	F00	gs://pan-ukbb-refinery/munged/icd10-F00-both_sexes.tsv.bgz.lifted.gz.munged.gz
 F5_BIPO	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_F5_BIPO.gz	F31	gs://pan-ukbb-refinery/munged/icd10-F31-both_sexes.tsv.bgz.lifted.gz.munged.gz
@@ -250,7 +250,7 @@ G6_AUTONOM	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_
 G6_CERCYST	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_G6_CERCYST.gz	G93	gs://pan-ukbb-refinery/munged/icd10-G93-both_sexes.tsv.bgz.lifted.gz.munged.gz
 G6_CNSOTH	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_G6_CNSOTH.gz	G96	gs://pan-ukbb-refinery/munged/icd10-G96-both_sexes.tsv.bgz.lifted.gz.munged.gz
 G6_CP	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_G6_CP.gz	343	gs://pan-ukbb-refinery/munged/phecode-343-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		G53	gs://pan-ukbb-refinery/munged/icd10-G53-both_sexes.tsv.bgz.lifted.gz.munged.gz
+G6_CRAINOTH		G53	gs://pan-ukbb-refinery/munged/icd10-G53-both_sexes.tsv.bgz.lifted.gz.munged.gz
 G6_DIABETNEUR	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_G6_DIABETNEUR.gz	250.24	gs://pan-ukbb-refinery/munged/phecode-250.24-both_sexes.tsv.bgz.lifted.gz.munged.gz
 G6_DYSTON	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_G6_DYSTON.gz	G24	gs://pan-ukbb-refinery/munged/icd10-G24-both_sexes.tsv.bgz.lifted.gz.munged.gz
 G6_EPLEPSY	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_G6_EPLEPSY.gz	G40	gs://pan-ukbb-refinery/munged/icd10-G40-both_sexes.tsv.bgz.lifted.gz.munged.gz
@@ -261,12 +261,12 @@ G6_HERATAXIA	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysi
 G6_MIGRAINE	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_G6_MIGRAINE.gz	G43	gs://pan-ukbb-refinery/munged/icd10-G43-both_sexes.tsv.bgz.lifted.gz.munged.gz
 G6_MS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_G6_MS.gz	335	gs://pan-ukbb-refinery/munged/phecode-335-both_sexes.tsv.bgz.lifted.gz.munged.gz
 G6_MYASTHENIA	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_G6_MYASTHENIA.gz	358.1	gs://pan-ukbb-refinery/munged/phecode-358.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		358.1	gs://pan-ukbb-refinery/munged/phecode-358.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
+G6_MYASTHENIA_ADVERSE		358.1	gs://pan-ukbb-refinery/munged/phecode-358.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
 G6_OTHDEMYEL	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_G6_OTHDEMYEL.gz	G37	gs://pan-ukbb-refinery/munged/icd10-G37-both_sexes.tsv.bgz.lifted.gz.munged.gz
 G6_PARKINSON	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_G6_PARKINSON.gz	332	gs://pan-ukbb-refinery/munged/phecode-332-both_sexes.tsv.bgz.lifted.gz.munged.gz
 G6_PARKINSON_INCLAVO	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_G6_PARKINSON_INCLAVO.gz	332	gs://pan-ukbb-refinery/munged/phecode-332-both_sexes.tsv.bgz.lifted.gz.munged.gz
 G6_POSTOPNEURO	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_G6_POSTOPNEURO.gz	G97	gs://pan-ukbb-refinery/munged/icd10-G97-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		798.1	gs://pan-ukbb-refinery/munged/phecode-798.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
+G6_POSTVIRFAT		798.1	gs://pan-ukbb-refinery/munged/phecode-798.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
 G6_SLEEPAPNO	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_G6_SLEEPAPNO.gz	327.3	gs://pan-ukbb-refinery/munged/phecode-327.3-both_sexes.tsv.bgz.lifted.gz.munged.gz
 G6_SLEEPAPNO_INCLAVO	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_G6_SLEEPAPNO_INCLAVO.gz	327.3	gs://pan-ukbb-refinery/munged/phecode-327.3-both_sexes.tsv.bgz.lifted.gz.munged.gz
 G6_SLEEPDISOTH	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_G6_SLEEPDISOTH.gz	G47	gs://pan-ukbb-refinery/munged/icd10-G47-both_sexes.tsv.bgz.lifted.gz.munged.gz
@@ -282,7 +282,7 @@ H7_ASTIGMATISM	gs://finngen-production-library-green/finngen_R6/finngen_R6_analy
 H7_BLINDANDVISIMPAIRMENT	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_H7_BLINDANDVISIMPAIRMENT.gz	367.9	gs://pan-ukbb-refinery/munged/phecode-367.9-both_sexes.tsv.bgz.lifted.gz.munged.gz
 H7_CATARACTOTHER	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_H7_CATARACTOTHER.gz	H26	gs://pan-ukbb-refinery/munged/icd10-H26-both_sexes.tsv.bgz.lifted.gz.munged.gz
 H7_CATARACTSENILE	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_H7_CATARACTSENILE.gz	366.2	gs://pan-ukbb-refinery/munged/phecode-366.2-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		363.3	gs://pan-ukbb-refinery/munged/phecode-363.3-both_sexes.tsv.bgz.lifted.gz.munged.gz
+H7_CHORSCAR		363.3	gs://pan-ukbb-refinery/munged/phecode-363.3-both_sexes.tsv.bgz.lifted.gz.munged.gz
 H7_CONJUNCTIVITIS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_H7_CONJUNCTIVITIS.gz	369.5	gs://pan-ukbb-refinery/munged/phecode-369.5-both_sexes.tsv.bgz.lifted.gz.munged.gz
 H7_CONJUNCTIVITISACUNONATOPIC	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_H7_CONJUNCTIVITISACUNONATOPIC.gz	369.5	gs://pan-ukbb-refinery/munged/phecode-369.5-both_sexes.tsv.bgz.lifted.gz.munged.gz
 H7_CORNEALDEFORM	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_H7_CORNEALDEFORM.gz	364.41	gs://pan-ukbb-refinery/munged/phecode-364.41-both_sexes.tsv.bgz.lifted.gz.munged.gz
@@ -292,7 +292,7 @@ H7_CORNULCER	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysi
 H7_DEGENMYOPIA	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_H7_DEGENMYOPIA.gz	360.2	gs://pan-ukbb-refinery/munged/phecode-360.2-both_sexes.tsv.bgz.lifted.gz.munged.gz
 H7_EPIPHORA	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_H7_EPIPHORA.gz	375.2	gs://pan-ukbb-refinery/munged/phecode-375.2-both_sexes.tsv.bgz.lifted.gz.munged.gz
 H7_EYELIDINFLAMMATION	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_H7_EYELIDINFLAMMATION.gz	H01	gs://pan-ukbb-refinery/munged/icd10-H01-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		H59	gs://pan-ukbb-refinery/munged/icd10-H59-both_sexes.tsv.bgz.lifted.gz.munged.gz
+H7_EYEPOSTOP		H59	gs://pan-ukbb-refinery/munged/icd10-H59-both_sexes.tsv.bgz.lifted.gz.munged.gz
 H7_GLAUCCLOSEPRIM	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_H7_GLAUCCLOSEPRIM.gz	365.2	gs://pan-ukbb-refinery/munged/phecode-365.2-both_sexes.tsv.bgz.lifted.gz.munged.gz
 H7_GLAUCOMA	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_H7_GLAUCOMA.gz	365	gs://pan-ukbb-refinery/munged/phecode-365-both_sexes.tsv.bgz.lifted.gz.munged.gz
 H7_GLAUCOMA_JOAG	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_H7_GLAUCOMA_JOAG.gz	365.1	gs://pan-ukbb-refinery/munged/phecode-365.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
@@ -332,24 +332,24 @@ H8_OTOSCLE	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_
 H8_PERFORATION	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_H8_PERFORATION.gz	384.4	gs://pan-ukbb-refinery/munged/phecode-384.4-both_sexes.tsv.bgz.lifted.gz.munged.gz
 H8_POSTOP	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_H8_POSTOP.gz	H95	gs://pan-ukbb-refinery/munged/icd10-H95-both_sexes.tsv.bgz.lifted.gz.munged.gz
 H8_TINNITUS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_H8_TINNITUS.gz	389.4	gs://pan-ukbb-refinery/munged/phecode-389.4-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		B17	gs://pan-ukbb-refinery/munged/icd10-B17-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		B18	gs://pan-ukbb-refinery/munged/icd10-B18-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		198.1	gs://pan-ukbb-refinery/munged/phecode-198.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		198.1	gs://pan-ukbb-refinery/munged/phecode-198.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		191.11	gs://pan-ukbb-refinery/munged/phecode-191.11-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		198.1	gs://pan-ukbb-refinery/munged/phecode-198.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		198.1	gs://pan-ukbb-refinery/munged/phecode-198.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		198.1	gs://pan-ukbb-refinery/munged/phecode-198.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		C18	gs://pan-ukbb-refinery/munged/icd10-C18-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		C18	gs://pan-ukbb-refinery/munged/icd10-C18-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		198.1	gs://pan-ukbb-refinery/munged/phecode-198.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		191.11	gs://pan-ukbb-refinery/munged/phecode-191.11-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		191.11	gs://pan-ukbb-refinery/munged/phecode-191.11-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		191.11	gs://pan-ukbb-refinery/munged/phecode-191.11-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		C34	gs://pan-ukbb-refinery/munged/icd10-C34-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		C34	gs://pan-ukbb-refinery/munged/icd10-C34-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		C34	gs://pan-ukbb-refinery/munged/icd10-C34-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		C34	gs://pan-ukbb-refinery/munged/icd10-C34-both_sexes.tsv.bgz.lifted.gz.munged.gz
+HEPATITIS_ACUTE_OTHER_VIRAL		B17	gs://pan-ukbb-refinery/munged/icd10-B17-both_sexes.tsv.bgz.lifted.gz.munged.gz
+HEPATITIS_CHRONIC_VIRAL		B18	gs://pan-ukbb-refinery/munged/icd10-B18-both_sexes.tsv.bgz.lifted.gz.munged.gz
+HLP_C3_ALL		198.1	gs://pan-ukbb-refinery/munged/phecode-198.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
+HLP_C3_AML		198.1	gs://pan-ukbb-refinery/munged/phecode-198.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
+HLP_C3_ASTROCYTOMA		191.11	gs://pan-ukbb-refinery/munged/phecode-191.11-both_sexes.tsv.bgz.lifted.gz.munged.gz
+HLP_C3_BURKITT		198.1	gs://pan-ukbb-refinery/munged/phecode-198.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
+HLP_C3_CLL		198.1	gs://pan-ukbb-refinery/munged/phecode-198.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
+HLP_C3_CML		198.1	gs://pan-ukbb-refinery/munged/phecode-198.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
+HLP_C3_COLON_ADENO		C18	gs://pan-ukbb-refinery/munged/icd10-C18-both_sexes.tsv.bgz.lifted.gz.munged.gz
+HLP_C3_COLON_SQUAM		C18	gs://pan-ukbb-refinery/munged/icd10-C18-both_sexes.tsv.bgz.lifted.gz.munged.gz
+HLP_C3_DLBCL		198.1	gs://pan-ukbb-refinery/munged/phecode-198.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
+HLP_C3_GBM		191.11	gs://pan-ukbb-refinery/munged/phecode-191.11-both_sexes.tsv.bgz.lifted.gz.munged.gz
+HLP_C3_GLIOMIX		191.11	gs://pan-ukbb-refinery/munged/phecode-191.11-both_sexes.tsv.bgz.lifted.gz.munged.gz
+HLP_C3_MEDULLOBLASTOMA		191.11	gs://pan-ukbb-refinery/munged/phecode-191.11-both_sexes.tsv.bgz.lifted.gz.munged.gz
+HLP_C3_NSCLC		C34	gs://pan-ukbb-refinery/munged/icd10-C34-both_sexes.tsv.bgz.lifted.gz.munged.gz
+HLP_C3_NSCLC_ADENO		C34	gs://pan-ukbb-refinery/munged/icd10-C34-both_sexes.tsv.bgz.lifted.gz.munged.gz
+HLP_C3_NSCLC_SQUAM		C34	gs://pan-ukbb-refinery/munged/icd10-C34-both_sexes.tsv.bgz.lifted.gz.munged.gz
+HLP_C3_SCLC		C34	gs://pan-ukbb-refinery/munged/icd10-C34-both_sexes.tsv.bgz.lifted.gz.munged.gz
 HYPOTE_DRUGS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_HYPOTE_DRUGS.gz	458.2	gs://pan-ukbb-refinery/munged/phecode-458.2-both_sexes.tsv.bgz.lifted.gz.munged.gz
 I9_AF	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_I9_AF.gz	427.2	gs://pan-ukbb-refinery/munged/phecode-427.2-both_sexes.tsv.bgz.lifted.gz.munged.gz
 I9_ANEURYSM	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_I9_ANEURYSM.gz	433.5	gs://pan-ukbb-refinery/munged/phecode-433.5-both_sexes.tsv.bgz.lifted.gz.munged.gz
@@ -369,7 +369,7 @@ I9_HYPTENSEC	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysi
 I9_HYPTENSESS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_I9_HYPTENSESS.gz	401.1	gs://pan-ukbb-refinery/munged/phecode-401.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
 I9_HYPTENSHD	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_I9_HYPTENSHD.gz	401.21	gs://pan-ukbb-refinery/munged/phecode-401.21-both_sexes.tsv.bgz.lifted.gz.munged.gz
 I9_HYPTENSHR	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_I9_HYPTENSHR.gz	401.2	gs://pan-ukbb-refinery/munged/phecode-401.2-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		571.81	gs://pan-ukbb-refinery/munged/phecode-571.81-both_sexes.tsv.bgz.lifted.gz.munged.gz
+I9_HYPTENSPOR		571.81	gs://pan-ukbb-refinery/munged/phecode-571.81-both_sexes.tsv.bgz.lifted.gz.munged.gz
 I9_HYPTENSPREG	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_I9_HYPTENSPREG.gz	642	gs://pan-ukbb-refinery/munged/phecode-642-females.tsv.bgz.lifted.gz.munged.gz
 I9_HYPTENSPUL	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_I9_HYPTENSPUL.gz	415.21	gs://pan-ukbb-refinery/munged/phecode-415.21-both_sexes.tsv.bgz.lifted.gz.munged.gz
 I9_HYPTENSRD	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_I9_HYPTENSRD.gz	401.22	gs://pan-ukbb-refinery/munged/phecode-401.22-both_sexes.tsv.bgz.lifted.gz.munged.gz
@@ -400,15 +400,15 @@ I9_VARICVESOTH	gs://finngen-production-library-green/finngen_R6/finngen_R6_analy
 I9_VASCDEM	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_I9_VASCDEM.gz	290.16	gs://pan-ukbb-refinery/munged/phecode-290.16-both_sexes.tsv.bgz.lifted.gz.munged.gz
 I9_VASCSYND	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_I9_VASCSYND.gz	G46	gs://pan-ukbb-refinery/munged/icd10-G46-both_sexes.tsv.bgz.lifted.gz.munged.gz
 I9_VEINSOTH	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_I9_VEINSOTH.gz	I87	gs://pan-ukbb-refinery/munged/icd10-I87-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		A04	gs://pan-ukbb-refinery/munged/icd10-A04-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		B25	gs://pan-ukbb-refinery/munged/icd10-B25-both_sexes.tsv.bgz.lifted.gz.munged.gz
+IBD_BACT_INTEST_INFECTIONS		A04	gs://pan-ukbb-refinery/munged/icd10-A04-both_sexes.tsv.bgz.lifted.gz.munged.gz
+IBD_CMV		B25	gs://pan-ukbb-refinery/munged/icd10-B25-both_sexes.tsv.bgz.lifted.gz.munged.gz
 ILD	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_ILD.gz	J84	gs://pan-ukbb-refinery/munged/icd10-J84-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		J84	gs://pan-ukbb-refinery/munged/icd10-J84-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		J84	gs://pan-ukbb-refinery/munged/icd10-J84-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		J84	gs://pan-ukbb-refinery/munged/icd10-J84-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		J84	gs://pan-ukbb-refinery/munged/icd10-J84-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		J84	gs://pan-ukbb-refinery/munged/icd10-J84-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		592.13	gs://pan-ukbb-refinery/munged/phecode-592.13-both_sexes.tsv.bgz.lifted.gz.munged.gz
+ILD_ELSEWHERE		J84	gs://pan-ukbb-refinery/munged/icd10-J84-both_sexes.tsv.bgz.lifted.gz.munged.gz
+ILD_HOSPITAL		J84	gs://pan-ukbb-refinery/munged/icd10-J84-both_sexes.tsv.bgz.lifted.gz.munged.gz
+ILD_HOSPITAL_MAIN		J84	gs://pan-ukbb-refinery/munged/icd10-J84-both_sexes.tsv.bgz.lifted.gz.munged.gz
+ILD_HOSPITAL_PNEUMONIA_SEPSIS		J84	gs://pan-ukbb-refinery/munged/icd10-J84-both_sexes.tsv.bgz.lifted.gz.munged.gz
+ILD_HOSPITAL_PULM_INFECT		J84	gs://pan-ukbb-refinery/munged/icd10-J84-both_sexes.tsv.bgz.lifted.gz.munged.gz
+INTERSTITIAL_CYSTIT_CHRONIC		592.13	gs://pan-ukbb-refinery/munged/phecode-592.13-both_sexes.tsv.bgz.lifted.gz.munged.gz
 IPF	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_IPF.gz	502	gs://pan-ukbb-refinery/munged/phecode-502-both_sexes.tsv.bgz.lifted.gz.munged.gz
 J10_ACUTEUPPERINFEC	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_J10_ACUTEUPPERINFEC.gz	J06	gs://pan-ukbb-refinery/munged/icd10-J06-both_sexes.tsv.bgz.lifted.gz.munged.gz
 J10_ASTHMA	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_J10_ASTHMA.gz	495	gs://pan-ukbb-refinery/munged/phecode-495-both_sexes.tsv.bgz.lifted.gz.munged.gz
@@ -520,7 +520,7 @@ K11_VENTHER	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis
 KNEE_ARTHROSIS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_KNEE_ARTHROSIS.gz	M17	gs://pan-ukbb-refinery/munged/icd10-M17-both_sexes.tsv.bgz.lifted.gz.munged.gz
 KRA_PSY_EATING	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_KRA_PSY_EATING.gz	F50	gs://pan-ukbb-refinery/munged/icd10-F50-both_sexes.tsv.bgz.lifted.gz.munged.gz
 L12_ABSCESS_CUT	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_L12_ABSCESS_CUT.gz	L02	gs://pan-ukbb-refinery/munged/icd10-L02-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		701.6	gs://pan-ukbb-refinery/munged/phecode-701.6-both_sexes.tsv.bgz.lifted.gz.munged.gz
+L12_ACANTHNIGRICANS		701.6	gs://pan-ukbb-refinery/munged/phecode-701.6-both_sexes.tsv.bgz.lifted.gz.munged.gz
 L12_ALLERGICCONTACT	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_L12_ALLERGICCONTACT.gz	L23	gs://pan-ukbb-refinery/munged/icd10-L23-both_sexes.tsv.bgz.lifted.gz.munged.gz
 L12_ATROPHICSKIN	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_L12_ATROPHICSKIN.gz	L90	gs://pan-ukbb-refinery/munged/icd10-L90-both_sexes.tsv.bgz.lifted.gz.munged.gz
 L12_CELLULITIS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_L12_CELLULITIS.gz	L03	gs://pan-ukbb-refinery/munged/icd10-L03-both_sexes.tsv.bgz.lifted.gz.munged.gz
@@ -545,7 +545,7 @@ L12_LICHENPLANUS_INCLAVO	gs://finngen-production-library-green/finngen_R6/finnge
 L12_LICHSIMPANDPRURIGO	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_L12_LICHSIMPANDPRURIGO.gz	L28	gs://pan-ukbb-refinery/munged/icd10-L28-both_sexes.tsv.bgz.lifted.gz.munged.gz
 L12_LOCALDCONNECTISSUEOTH	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_L12_LOCALDCONNECTISSUEOTH.gz	L94	gs://pan-ukbb-refinery/munged/icd10-L94-both_sexes.tsv.bgz.lifted.gz.munged.gz
 L12_LUPUS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_L12_LUPUS.gz	695.41	gs://pan-ukbb-refinery/munged/phecode-695.41-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		695.41	gs://pan-ukbb-refinery/munged/phecode-695.41-both_sexes.tsv.bgz.lifted.gz.munged.gz
+L12_LUPUS_ADVERSE		695.41	gs://pan-ukbb-refinery/munged/phecode-695.41-both_sexes.tsv.bgz.lifted.gz.munged.gz
 L12_NAILDIS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_L12_NAILDIS.gz	703	gs://pan-ukbb-refinery/munged/phecode-703-both_sexes.tsv.bgz.lifted.gz.munged.gz
 L12_NAIL_INGROW	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_L12_NAIL_INGROW.gz	703.1	gs://pan-ukbb-refinery/munged/phecode-703.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
 L12_NONIONRADISKIN	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_L12_NONIONRADISKIN.gz	938.2	gs://pan-ukbb-refinery/munged/phecode-938.2-both_sexes.tsv.bgz.lifted.gz.munged.gz
@@ -611,7 +611,7 @@ M13_TORTICOLLIS	gs://finngen-production-library-green/finngen_R6/finngen_R6_anal
 M13_VERTEBCOLLAPSE	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_M13_VERTEBCOLLAPSE.gz	743.21	gs://pan-ukbb-refinery/munged/phecode-743.21-both_sexes.tsv.bgz.lifted.gz.munged.gz
 MEMLOSS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_MEMLOSS.gz	292.3	gs://pan-ukbb-refinery/munged/phecode-292.3-both_sexes.tsv.bgz.lifted.gz.munged.gz
 MIGRAINE_TRIPTAN	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_MIGRAINE_TRIPTAN.gz	G43	gs://pan-ukbb-refinery/munged/icd10-G43-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		333.2	gs://pan-ukbb-refinery/munged/phecode-333.2-both_sexes.tsv.bgz.lifted.gz.munged.gz
+MYOCLONUS		333.2	gs://pan-ukbb-refinery/munged/phecode-333.2-both_sexes.tsv.bgz.lifted.gz.munged.gz
 N14_ABNORMALBLEED	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_N14_ABNORMALBLEED.gz	N93	gs://pan-ukbb-refinery/munged/icd10-N93-both_sexes.tsv.bgz.lifted.gz.munged.gz
 N14_ACUTERENFAIL	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_N14_ACUTERENFAIL.gz	585.1	gs://pan-ukbb-refinery/munged/phecode-585.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
 N14_BENIGNMAMDYSP	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_N14_BENIGNMAMDYSP.gz	610.8	gs://pan-ukbb-refinery/munged/phecode-610.8-females.tsv.bgz.lifted.gz.munged.gz
@@ -619,7 +619,7 @@ N14_BREASTDISOTH	gs://finngen-production-library-green/finngen_R6/finngen_R6_ana
 N14_CALCUKIDUR	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_N14_CALCUKIDUR.gz	N20	gs://pan-ukbb-refinery/munged/icd10-N20-both_sexes.tsv.bgz.lifted.gz.munged.gz
 N14_CALCULOWER	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_N14_CALCULOWER.gz	594.2	gs://pan-ukbb-refinery/munged/phecode-594.2-both_sexes.tsv.bgz.lifted.gz.munged.gz
 N14_CHRONEPHROPATH	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_N14_CHRONEPHROPATH.gz	580.14	gs://pan-ukbb-refinery/munged/phecode-580.14-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		580.14	gs://pan-ukbb-refinery/munged/phecode-580.14-both_sexes.tsv.bgz.lifted.gz.munged.gz
+N14_CHRONEPHROPATH_ADVERSE		580.14	gs://pan-ukbb-refinery/munged/phecode-580.14-both_sexes.tsv.bgz.lifted.gz.munged.gz
 N14_CHRONTUBULOINTNEPHRITIS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_N14_CHRONTUBULOINTNEPHRITIS.gz	N11	gs://pan-ukbb-refinery/munged/icd10-N11-both_sexes.tsv.bgz.lifted.gz.munged.gz
 N14_CYSTITIS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_N14_CYSTITIS.gz	592.1	gs://pan-ukbb-refinery/munged/phecode-592.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
 N14_CYSTKID	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_N14_CYSTKID.gz	586.2	gs://pan-ukbb-refinery/munged/phecode-586.2-both_sexes.tsv.bgz.lifted.gz.munged.gz
@@ -642,9 +642,9 @@ N14_LUMPNASBREAST	gs://finngen-production-library-green/finngen_R6/finngen_R6_an
 N14_MENORRHAGIA	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_N14_MENORRHAGIA.gz	626.12	gs://pan-ukbb-refinery/munged/phecode-626.12-females.tsv.bgz.lifted.gz.munged.gz
 N14_MESNRUIRREG	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_N14_MESNRUIRREG.gz	N92	gs://pan-ukbb-refinery/munged/icd10-N92-both_sexes.tsv.bgz.lifted.gz.munged.gz
 N14_NEPHRITICNAS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_N14_NEPHRITICNAS.gz	N05	gs://pan-ukbb-refinery/munged/icd10-N05-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		N05	gs://pan-ukbb-refinery/munged/icd10-N05-both_sexes.tsv.bgz.lifted.gz.munged.gz
+N14_NEPHRITICNAS_ADVERSE		N05	gs://pan-ukbb-refinery/munged/icd10-N05-both_sexes.tsv.bgz.lifted.gz.munged.gz
 N14_NEPHROTICSYND	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_N14_NEPHROTICSYND.gz	N04	gs://pan-ukbb-refinery/munged/icd10-N04-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		N04	gs://pan-ukbb-refinery/munged/icd10-N04-both_sexes.tsv.bgz.lifted.gz.munged.gz
+N14_NEPHROTICSYND_ADVERSE		N04	gs://pan-ukbb-refinery/munged/icd10-N04-both_sexes.tsv.bgz.lifted.gz.munged.gz
 N14_NEUROMUSCDYSBLADD	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_N14_NEUROMUSCDYSBLADD.gz	596.5	gs://pan-ukbb-refinery/munged/phecode-596.5-both_sexes.tsv.bgz.lifted.gz.munged.gz
 N14_OBSTRUREFLUROPATH	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_N14_OBSTRUREFLUROPATH.gz	599.1	gs://pan-ukbb-refinery/munged/phecode-599.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
 N14_ORHCEPINDIDYMITIS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_N14_ORHCEPINDIDYMITIS.gz	601.3	gs://pan-ukbb-refinery/munged/phecode-601.3-males.tsv.bgz.lifted.gz.munged.gz
@@ -665,7 +665,7 @@ N14_PROSTAOTH	gs://finngen-production-library-green/finngen_R6/finngen_R6_analys
 N14_PROSTATITIS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_N14_PROSTATITIS.gz	601.1	gs://pan-ukbb-refinery/munged/phecode-601.1-males.tsv.bgz.lifted.gz.munged.gz
 N14_PROSTHYPERPLA	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_N14_PROSTHYPERPLA.gz	600	gs://pan-ukbb-refinery/munged/phecode-600-males.tsv.bgz.lifted.gz.munged.gz
 N14_RECURANDPERHEAMATUR	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_N14_RECURANDPERHEAMATUR.gz	N02	gs://pan-ukbb-refinery/munged/icd10-N02-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		N02	gs://pan-ukbb-refinery/munged/icd10-N02-both_sexes.tsv.bgz.lifted.gz.munged.gz
+N14_RECURANDPERHEAMATUR_ADVERSE		N02	gs://pan-ukbb-refinery/munged/icd10-N02-both_sexes.tsv.bgz.lifted.gz.munged.gz
 N14_RENALCOLNAS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_N14_RENALCOLNAS.gz	594.8	gs://pan-ukbb-refinery/munged/phecode-594.8-both_sexes.tsv.bgz.lifted.gz.munged.gz
 N14_RENFAILNAS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_N14_RENFAILNAS.gz	585.2	gs://pan-ukbb-refinery/munged/phecode-585.2-both_sexes.tsv.bgz.lifted.gz.munged.gz
 N14_SALPHOOPH	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_N14_SALPHOOPH.gz	N70	gs://pan-ukbb-refinery/munged/icd10-N70-both_sexes.tsv.bgz.lifted.gz.munged.gz
@@ -701,7 +701,7 @@ O15_PREG_DM	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis
 O15_PREG_ECTOP	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_O15_PREG_ECTOP.gz	O00	gs://pan-ukbb-refinery/munged/icd10-O00-both_sexes.tsv.bgz.lifted.gz.munged.gz
 O15_PREG_MATERN_CARE	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_O15_PREG_MATERN_CARE.gz	O26	gs://pan-ukbb-refinery/munged/icd10-O26-both_sexes.tsv.bgz.lifted.gz.munged.gz
 O15_PRETERM	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_O15_PRETERM.gz	636.2	gs://pan-ukbb-refinery/munged/phecode-636.2-females.tsv.bgz.lifted.gz.munged.gz
-		K85	gs://pan-ukbb-refinery/munged/icd10-K85-both_sexes.tsv.bgz.lifted.gz.munged.gz
+PANCREATITIS		K85	gs://pan-ukbb-refinery/munged/icd10-K85-both_sexes.tsv.bgz.lifted.gz.munged.gz
 PDSTRICT	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_PDSTRICT.gz	332	gs://pan-ukbb-refinery/munged/phecode-332-both_sexes.tsv.bgz.lifted.gz.munged.gz
 POLYCYTVERA	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_POLYCYTVERA.gz	200.1	gs://pan-ukbb-refinery/munged/phecode-200.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
 PSOR_ENTE_ARTHR	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_PSOR_ENTE_ARTHR.gz	M07	gs://pan-ukbb-refinery/munged/icd10-M07-both_sexes.tsv.bgz.lifted.gz.munged.gz
@@ -711,36 +711,36 @@ Q17_CONGEN_MALFO_AORTIC_MITRAL_VALVES	gs://finngen-production-library-green/finn
 Q17_CONGEN_MALFO_CARDIAC_SEPTA	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_Q17_CONGEN_MALFO_CARDIAC_SEPTA.gz	Q21	gs://pan-ukbb-refinery/munged/icd10-Q21-both_sexes.tsv.bgz.lifted.gz.munged.gz
 Q17_CONGEN_MALFO_GREAT_ARTERIES	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_Q17_CONGEN_MALFO_GREAT_ARTERIES.gz	Q25	gs://pan-ukbb-refinery/munged/icd10-Q25-both_sexes.tsv.bgz.lifted.gz.munged.gz
 Q17_CONGEN_MALFO_MUSCULOS_SYSTEM_NOT_ELSEW_CLASSIFIED	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_Q17_CONGEN_MALFO_MUSCULOS_SYSTEM_NOT_ELSEW_CLASSIFIED.gz	Q79	gs://pan-ukbb-refinery/munged/icd10-Q79-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		750.14	gs://pan-ukbb-refinery/munged/phecode-750.14-both_sexes.tsv.bgz.lifted.gz.munged.gz
+Q17_CONGEN_MALFO_OESOPHAGUS		750.14	gs://pan-ukbb-refinery/munged/phecode-750.14-both_sexes.tsv.bgz.lifted.gz.munged.gz
 Q17_CONGEN_MALFO_OVARIES_FALLOP_TUBES_BROAD_LIGAM	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_Q17_CONGEN_MALFO_OVARIES_FALLOP_TUBES_BROAD_LIGAM.gz	Q50	gs://pan-ukbb-refinery/munged/icd10-Q50-both_sexes.tsv.bgz.lifted.gz.munged.gz
 Q17_CONGEN_MALFO_SPINE_BONY_THORAX	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_Q17_CONGEN_MALFO_SPINE_BONY_THORAX.gz	Q76	gs://pan-ukbb-refinery/munged/icd10-Q76-both_sexes.tsv.bgz.lifted.gz.munged.gz
 Q17_CONGEN_MALFO_UTERUS_CERVIX	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_Q17_CONGEN_MALFO_UTERUS_CERVIX.gz	Q51	gs://pan-ukbb-refinery/munged/icd10-Q51-both_sexes.tsv.bgz.lifted.gz.munged.gz
 Q17_CYSTIC_KIDNEY_DISEA	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_Q17_CYSTIC_KIDNEY_DISEA.gz	751.21	gs://pan-ukbb-refinery/munged/phecode-751.21-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		Q54	gs://pan-ukbb-refinery/munged/icd10-Q54-both_sexes.tsv.bgz.lifted.gz.munged.gz
+Q17_HYPOSPADIAS		Q54	gs://pan-ukbb-refinery/munged/icd10-Q54-both_sexes.tsv.bgz.lifted.gz.munged.gz
 Q17_OTHER_CONGEN_MALFO_CIRCULATO_SYSTEM	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_Q17_OTHER_CONGEN_MALFO_CIRCULATO_SYSTEM.gz	Q28	gs://pan-ukbb-refinery/munged/icd10-Q28-both_sexes.tsv.bgz.lifted.gz.munged.gz
 Q17_OTHER_CONGEN_MALFO_DIGES_SYSTEM1	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_Q17_OTHER_CONGEN_MALFO_DIGES_SYSTEM1.gz	750	gs://pan-ukbb-refinery/munged/phecode-750-both_sexes.tsv.bgz.lifted.gz.munged.gz
 Q17_OTHER_CONGEN_MALFO_FACE_NECK	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_Q17_OTHER_CONGEN_MALFO_FACE_NECK.gz	Q18	gs://pan-ukbb-refinery/munged/icd10-Q18-both_sexes.tsv.bgz.lifted.gz.munged.gz
 Q17_OTHER_CONGEN_MALFO_HEART	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_Q17_OTHER_CONGEN_MALFO_HEART.gz	Q24	gs://pan-ukbb-refinery/munged/icd10-Q24-both_sexes.tsv.bgz.lifted.gz.munged.gz
 Q17_OTHER_CONGEN_MALFO_INTESTINE	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_Q17_OTHER_CONGEN_MALFO_INTESTINE.gz	Q43	gs://pan-ukbb-refinery/munged/icd10-Q43-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		Q63	gs://pan-ukbb-refinery/munged/icd10-Q63-both_sexes.tsv.bgz.lifted.gz.munged.gz
+Q17_OTHER_CONGEN_MALFO_KIDNEY		Q63	gs://pan-ukbb-refinery/munged/icd10-Q63-both_sexes.tsv.bgz.lifted.gz.munged.gz
 Q17_OTHER_CONGEN_MALFO_NOT_ELSEW_CLASSIFIED	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_Q17_OTHER_CONGEN_MALFO_NOT_ELSEW_CLASSIFIED.gz	Q89	gs://pan-ukbb-refinery/munged/icd10-Q89-both_sexes.tsv.bgz.lifted.gz.munged.gz
 Q17_OTHER_CONGEN_MALFO_PERIP_VASCULAR_SYSTEM	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_Q17_OTHER_CONGEN_MALFO_PERIP_VASCULAR_SYSTEM.gz	Q27	gs://pan-ukbb-refinery/munged/icd10-Q27-both_sexes.tsv.bgz.lifted.gz.munged.gz
 Q17_OTHER_CONGEN_MALFO_SKIN	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_Q17_OTHER_CONGEN_MALFO_SKIN.gz	Q82	gs://pan-ukbb-refinery/munged/icd10-Q82-both_sexes.tsv.bgz.lifted.gz.munged.gz
 Q17_OTHER_CONGEN_MALFO_TONGUE_MOUTH_PHARYNX	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_Q17_OTHER_CONGEN_MALFO_TONGUE_MOUTH_PHARYNX.gz	Q38	gs://pan-ukbb-refinery/munged/icd10-Q38-both_sexes.tsv.bgz.lifted.gz.munged.gz
 Q17_OTHER_SPECIFE_CONGEN_MALFO_SYNDR_AFFECTING_MULTIPLE_SYSTEMS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_Q17_OTHER_SPECIFE_CONGEN_MALFO_SYNDR_AFFECTING_MULTIPLE_SYSTEMS.gz	Q87	gs://pan-ukbb-refinery/munged/icd10-Q87-both_sexes.tsv.bgz.lifted.gz.munged.gz
 Q17_PHAKOMATOSES_NOT_ELSEW_CLASSIFIED	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_Q17_PHAKOMATOSES_NOT_ELSEW_CLASSIFIED.gz	Q85	gs://pan-ukbb-refinery/munged/icd10-Q85-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		Q60	gs://pan-ukbb-refinery/munged/icd10-Q60-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		Q05	gs://pan-ukbb-refinery/munged/icd10-Q05-both_sexes.tsv.bgz.lifted.gz.munged.gz
+Q17_RENAL_AGENE_OTHER_REDUCT_DEFECTS_KIDNEY		Q60	gs://pan-ukbb-refinery/munged/icd10-Q60-both_sexes.tsv.bgz.lifted.gz.munged.gz
+Q17_SPINA_BIFIDA		Q05	gs://pan-ukbb-refinery/munged/icd10-Q05-both_sexes.tsv.bgz.lifted.gz.munged.gz
 R18_ABDOMI_PELVIC_PAIN	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_R18_ABDOMI_PELVIC_PAIN.gz	R10	gs://pan-ukbb-refinery/munged/icd10-R10-both_sexes.tsv.bgz.lifted.gz.munged.gz
 R18_ABNORMALITI_BREAT	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_R18_ABNORMALITI_BREAT.gz	R06	gs://pan-ukbb-refinery/munged/icd10-R06-both_sexes.tsv.bgz.lifted.gz.munged.gz
 R18_ABNORMALITI_GAIT_MOBIL	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_R18_ABNORMALITI_GAIT_MOBIL.gz	350.2	gs://pan-ukbb-refinery/munged/phecode-350.2-both_sexes.tsv.bgz.lifted.gz.munged.gz
 R18_ABNORMALITI_HEART_BEAT	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_R18_ABNORMALITI_HEART_BEAT.gz	R00	gs://pan-ukbb-refinery/munged/icd10-R00-both_sexes.tsv.bgz.lifted.gz.munged.gz
 R18_ABNORMAL_BLOOD_P_READI_WO_DIAGNOSIS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_R18_ABNORMAL_BLOOD_P_READI_WO_DIAGNOSIS.gz	R03	gs://pan-ukbb-refinery/munged/icd10-R03-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		R84	gs://pan-ukbb-refinery/munged/icd10-R84-both_sexes.tsv.bgz.lifted.gz.munged.gz
+R18_ABNORMAL_FINDI_BRONCHIAL_WASHI_NASAL_SECRE_PLEURAL_FLUID_SPUTUM_THROAT_SCRAP		R84	gs://pan-ukbb-refinery/munged/icd10-R84-both_sexes.tsv.bgz.lifted.gz.munged.gz
 R18_ABNORMAL_FINDI_DIAGNOST_IMAGI_CENTRAL_NERVOUS_SYSTEM	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_R18_ABNORMAL_FINDI_DIAGNOST_IMAGI_CENTRAL_NERVOUS_SYSTEM.gz	R90	gs://pan-ukbb-refinery/munged/icd10-R90-both_sexes.tsv.bgz.lifted.gz.munged.gz
 R18_ABNORMAL_FINDI_DIAGNOST_IMAGI_LUNG	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_R18_ABNORMAL_FINDI_DIAGNOST_IMAGI_LUNG.gz	514	gs://pan-ukbb-refinery/munged/phecode-514-both_sexes.tsv.bgz.lifted.gz.munged.gz
 R18_ABNORMAL_FINDI_DIAGNOST_IMAGI_OTHER_BODY_STRUCTURES	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_R18_ABNORMAL_FINDI_DIAGNOST_IMAGI_OTHER_BODY_STRUCTURES.gz	R93	gs://pan-ukbb-refinery/munged/icd10-R93-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		R85	gs://pan-ukbb-refinery/munged/icd10-R85-both_sexes.tsv.bgz.lifted.gz.munged.gz
+R18_ABNORMAL_FINDI_PERITONEAL_FLUID_SALIVA		R85	gs://pan-ukbb-refinery/munged/icd10-R85-both_sexes.tsv.bgz.lifted.gz.munged.gz
 R18_ABNORMAL_FINDI_SECRE_SMEARS_CERVIX_UTERI_VAGINA_VULVA	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_R18_ABNORMAL_FINDI_SECRE_SMEARS_CERVIX_UTERI_VAGINA_VULVA.gz	R87	gs://pan-ukbb-refinery/munged/icd10-R87-both_sexes.tsv.bgz.lifted.gz.munged.gz
 R18_ABNORMAL_INVOLU_MOVEM	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_R18_ABNORMAL_INVOLU_MOVEM.gz	R25	gs://pan-ukbb-refinery/munged/icd10-R25-both_sexes.tsv.bgz.lifted.gz.munged.gz
 R18_ABNORMAL_SERUM_ENZYME_LEVELS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_R18_ABNORMAL_SERUM_ENZYME_LEVELS.gz	573.9	gs://pan-ukbb-refinery/munged/phecode-573.9-both_sexes.tsv.bgz.lifted.gz.munged.gz
@@ -805,7 +805,7 @@ RHEUMA_SEROPOS_WIDE	gs://finngen-production-library-green/finngen_R6/finngen_R6_
 RHEU_ARTHRITIS_OTH	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_RHEU_ARTHRITIS_OTH.gz	M13	gs://pan-ukbb-refinery/munged/icd10-M13-both_sexes.tsv.bgz.lifted.gz.munged.gz
 SLEEP	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_SLEEP.gz	327	gs://pan-ukbb-refinery/munged/phecode-327-both_sexes.tsv.bgz.lifted.gz.munged.gz
 SLE_FG	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_SLE_FG.gz	695.42	gs://pan-ukbb-refinery/munged/phecode-695.42-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		695.42	gs://pan-ukbb-refinery/munged/phecode-695.42-both_sexes.tsv.bgz.lifted.gz.munged.gz
+SLE_ICD10		695.42	gs://pan-ukbb-refinery/munged/phecode-695.42-both_sexes.tsv.bgz.lifted.gz.munged.gz
 SLE_STRICT	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_SLE_STRICT.gz	695.42	gs://pan-ukbb-refinery/munged/phecode-695.42-both_sexes.tsv.bgz.lifted.gz.munged.gz
 SMOKING	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_SMOKING.gz	318	gs://pan-ukbb-refinery/munged/phecode-318-both_sexes.tsv.bgz.lifted.gz.munged.gz
 SMOKING_DEPEND	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_SMOKING_DEPEND.gz	318	gs://pan-ukbb-refinery/munged/phecode-318-both_sexes.tsv.bgz.lifted.gz.munged.gz
@@ -897,15 +897,15 @@ ST19_TOXIC_EFFECT_ALCOHOL	gs://finngen-production-library-green/finngen_R6/finng
 ST19_TOXIC_EFFECT_CONTACT_W_VENOMO_ANIMALS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_ST19_TOXIC_EFFECT_CONTACT_W_VENOMO_ANIMALS.gz	T63	gs://pan-ukbb-refinery/munged/icd10-T63-both_sexes.tsv.bgz.lifted.gz.munged.gz
 ST19_TOXIC_EFFECT_OTHER_GASES_FUMES_VAPOU	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_ST19_TOXIC_EFFECT_OTHER_GASES_FUMES_VAPOU.gz	T59	gs://pan-ukbb-refinery/munged/icd10-T59-both_sexes.tsv.bgz.lifted.gz.munged.gz
 ST19_TRAUMAT_AMPUT_WRIST_HAND	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_ST19_TRAUMAT_AMPUT_WRIST_HAND.gz	S68	gs://pan-ukbb-refinery/munged/icd10-S68-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		958.2	gs://pan-ukbb-refinery/munged/phecode-958.2-both_sexes.tsv.bgz.lifted.gz.munged.gz
+ST19_TRAUMAT_SUBCU_EMPHY		958.2	gs://pan-ukbb-refinery/munged/phecode-958.2-both_sexes.tsv.bgz.lifted.gz.munged.gz
 STILL_ADULT	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_STILL_ADULT.gz	M06	gs://pan-ukbb-refinery/munged/icd10-M06-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		M34	gs://pan-ukbb-refinery/munged/icd10-M34-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		M34	gs://pan-ukbb-refinery/munged/icd10-M34-both_sexes.tsv.bgz.lifted.gz.munged.gz
+SYSTSCLE_FG		M34	gs://pan-ukbb-refinery/munged/icd10-M34-both_sexes.tsv.bgz.lifted.gz.munged.gz
+SYSTSCLE_ICD10		M34	gs://pan-ukbb-refinery/munged/icd10-M34-both_sexes.tsv.bgz.lifted.gz.munged.gz
 T1D	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_T1D.gz	250.1	gs://pan-ukbb-refinery/munged/phecode-250.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		250.1	gs://pan-ukbb-refinery/munged/phecode-250.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
+T1D_ICD9_10		250.1	gs://pan-ukbb-refinery/munged/phecode-250.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
 T1D_STRICT	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_T1D_STRICT.gz	250.1	gs://pan-ukbb-refinery/munged/phecode-250.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
 T1D_STRICT1	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_T1D_STRICT1.gz	250.1	gs://pan-ukbb-refinery/munged/phecode-250.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		250.1	gs://pan-ukbb-refinery/munged/phecode-250.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
+T1D_STRICT2		250.1	gs://pan-ukbb-refinery/munged/phecode-250.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
 T1D_WIDE	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_T1D_WIDE.gz	250.1	gs://pan-ukbb-refinery/munged/phecode-250.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
 T1D_WIDE1	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_T1D_WIDE1.gz	250.1	gs://pan-ukbb-refinery/munged/phecode-250.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
 T1D_WIDE2	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_T1D_WIDE2.gz	250.1	gs://pan-ukbb-refinery/munged/phecode-250.1-both_sexes.tsv.bgz.lifted.gz.munged.gz
@@ -914,17 +914,17 @@ T2D_INCLAVO	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis
 T2D_WIDE	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_T2D_WIDE.gz	E11	gs://pan-ukbb-refinery/munged/icd10-E11-both_sexes.tsv.bgz.lifted.gz.munged.gz
 TEMPOROMANDIB	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_TEMPOROMANDIB.gz	526.4	gs://pan-ukbb-refinery/munged/phecode-526.4-both_sexes.tsv.bgz.lifted.gz.munged.gz
 TEMPOROMANDIB_INCLAVO	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_TEMPOROMANDIB_INCLAVO.gz	526.4	gs://pan-ukbb-refinery/munged/phecode-526.4-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		245	gs://pan-ukbb-refinery/munged/phecode-245-both_sexes.tsv.bgz.lifted.gz.munged.gz
+THYROIDITIS_ILD		245	gs://pan-ukbb-refinery/munged/phecode-245-both_sexes.tsv.bgz.lifted.gz.munged.gz
 TONGUEABNORMALITY	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_TONGUEABNORMALITY.gz	529	gs://pan-ukbb-refinery/munged/phecode-529-both_sexes.tsv.bgz.lifted.gz.munged.gz
 VWXY20_ACCIDENTAL_POISO_EXPOS_ALCOHOL	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_VWXY20_ACCIDENTAL_POISO_EXPOS_ALCOHOL.gz	X45	gs://pan-ukbb-refinery/munged/icd10-X45-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		X58	gs://pan-ukbb-refinery/munged/icd10-X58-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		X78	gs://pan-ukbb-refinery/munged/icd10-X78-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		V49	gs://pan-ukbb-refinery/munged/icd10-V49-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		Y84	gs://pan-ukbb-refinery/munged/icd10-Y84-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		Y65	gs://pan-ukbb-refinery/munged/icd10-Y65-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		Y57	gs://pan-ukbb-refinery/munged/icd10-Y57-both_sexes.tsv.bgz.lifted.gz.munged.gz
+VWXY20_EXPOS_OTHER_SPECIFE_FACTO		X58	gs://pan-ukbb-refinery/munged/icd10-X58-both_sexes.tsv.bgz.lifted.gz.munged.gz
+VWXY20_INTENTI_SELF_H_SHARP_OBJECT		X78	gs://pan-ukbb-refinery/munged/icd10-X78-both_sexes.tsv.bgz.lifted.gz.munged.gz
+VWXY20_OCCUPANT_INJURED_OTHER_UNSPE_TRANSPO_ACCIDENTS		V49	gs://pan-ukbb-refinery/munged/icd10-V49-both_sexes.tsv.bgz.lifted.gz.munged.gz
+VWXY20_OTHER_MEDICAL_PROCED_CAUSE_ABNORMAL_REACTION_PATIENT_COMPLICATION_WO_MENTION_MISAD_TIME_PROCED		Y84	gs://pan-ukbb-refinery/munged/icd10-Y84-both_sexes.tsv.bgz.lifted.gz.munged.gz
+VWXY20_OTHER_MISAD_SURGI_MEDICAL_CARE		Y65	gs://pan-ukbb-refinery/munged/icd10-Y65-both_sexes.tsv.bgz.lifted.gz.munged.gz
+VWXY20_OTHER_UNSPE_DRUGS_MEDICAM		Y57	gs://pan-ukbb-refinery/munged/icd10-Y57-both_sexes.tsv.bgz.lifted.gz.munged.gz
 VWXY20_SURGI_OPERA_OTHER_SURGI_PROCED_CAUSE_ABNORMAL_REACTION_PATIENT_COMPLICATION_WO_MENTION_MISAD_TIME_PROCED	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_VWXY20_SURGI_OPERA_OTHER_SURGI_PROCED_CAUSE_ABNORMAL_REACTION_PATIENT_COMPLICATION_WO_MENTION_MISAD_TIME_PROCED.gz	Y83	gs://pan-ukbb-refinery/munged/icd10-Y83-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		Y60	gs://pan-ukbb-refinery/munged/icd10-Y60-both_sexes.tsv.bgz.lifted.gz.munged.gz
+VWXY20_UNINT_CUT_PUNCTU_PERFORATION_HAEMORRHAGE_SURGI_MEDICAL_CARE		Y60	gs://pan-ukbb-refinery/munged/icd10-Y60-both_sexes.tsv.bgz.lifted.gz.munged.gz
 VWXY20_UNSPE_FALL	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_VWXY20_UNSPE_FALL.gz	W19	gs://pan-ukbb-refinery/munged/icd10-W19-both_sexes.tsv.bgz.lifted.gz.munged.gz
 Z21_ACQUI_ABSENCE_ORGANS_NOT_ELSEW_CLASSIFIED	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_Z21_ACQUI_ABSENCE_ORGANS_NOT_ELSEW_CLASSIFIED.gz	175	gs://pan-ukbb-refinery/munged/phecode-175-females.tsv.bgz.lifted.gz.munged.gz
 Z21_ARTIF_OPENI_STATUS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_Z21_ARTIF_OPENI_STATUS.gz	Z93	gs://pan-ukbb-refinery/munged/icd10-Z93-both_sexes.tsv.bgz.lifted.gz.munged.gz
@@ -937,7 +937,7 @@ Z21_EXAM_OBSER_OTH_REASO	gs://finngen-production-library-green/finngen_R6/finnge
 Z21_FAMILY_HISTORY_OTH_SPECIFIC_DISORD	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_Z21_FAMILY_HISTORY_OTH_SPECIFIC_DISORD.gz	1100	gs://pan-ukbb-refinery/munged/phecode-1100-both_sexes.tsv.bgz.lifted.gz.munged.gz
 Z21_FIT_ADJ_OTH_DEVICES	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_Z21_FIT_ADJ_OTH_DEVICES.gz	Z46	gs://pan-ukbb-refinery/munged/icd10-Z46-both_sexes.tsv.bgz.lifted.gz.munged.gz
 Z21_FOLLOW__EXAM_TREAT_CONDI_OTH_MALIG_NEOPLASMS	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_Z21_FOLLOW__EXAM_TREAT_CONDI_OTH_MALIG_NEOPLASMS.gz	Z09	gs://pan-ukbb-refinery/munged/icd10-Z09-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		587	gs://pan-ukbb-refinery/munged/phecode-587-both_sexes.tsv.bgz.lifted.gz.munged.gz
+Z21_KIDNEY_TRANSPLANT_STATUS		587	gs://pan-ukbb-refinery/munged/phecode-587-both_sexes.tsv.bgz.lifted.gz.munged.gz
 Z21_MEDICAL_OBSER_EVALU_SUSPECTED_DISEA_CONDI	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_Z21_MEDICAL_OBSER_EVALU_SUSPECTED_DISEA_CONDI.gz	Z03	gs://pan-ukbb-refinery/munged/icd10-Z03-both_sexes.tsv.bgz.lifted.gz.munged.gz
 Z21_OTHER_MEDICAL_CARE	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_Z21_OTHER_MEDICAL_CARE.gz	Z51	gs://pan-ukbb-refinery/munged/icd10-Z51-both_sexes.tsv.bgz.lifted.gz.munged.gz
 Z21_OTHER_ORTHOPA_FOLLOW__CARE	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_Z21_OTHER_ORTHOPA_FOLLOW__CARE.gz	Z47	gs://pan-ukbb-refinery/munged/icd10-Z47-both_sexes.tsv.bgz.lifted.gz.munged.gz
@@ -945,7 +945,7 @@ Z21_OTHER_SPECIAL_EXAM_INVES_PERSONS_WO_COMPLA_REPOR_DIAGNOSIS	gs://finngen-prod
 Z21_PERSONAL_HISTORY_ALLERGY_DRUGS_MEDICAM_BIOLO_SUBST	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_Z21_PERSONAL_HISTORY_ALLERGY_DRUGS_MEDICAM_BIOLO_SUBST.gz	Z88	gs://pan-ukbb-refinery/munged/icd10-Z88-both_sexes.tsv.bgz.lifted.gz.munged.gz
 Z21_PERSONAL_HISTORY_CERTA_OTH_DISEA	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_Z21_PERSONAL_HISTORY_CERTA_OTH_DISEA.gz	Z86	gs://pan-ukbb-refinery/munged/icd10-Z86-both_sexes.tsv.bgz.lifted.gz.munged.gz
 Z21_PERSONAL_HISTORY_MALIG_NEOPLASM	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_Z21_PERSONAL_HISTORY_MALIG_NEOPLASM.gz	Z85	gs://pan-ukbb-refinery/munged/icd10-Z85-both_sexes.tsv.bgz.lifted.gz.munged.gz
-		Z92	gs://pan-ukbb-refinery/munged/icd10-Z92-both_sexes.tsv.bgz.lifted.gz.munged.gz
+Z21_PERSONAL_HISTORY_MEDICAL_TREAT		Z92	gs://pan-ukbb-refinery/munged/icd10-Z92-both_sexes.tsv.bgz.lifted.gz.munged.gz
 Z21_PERSONAL_HISTORY_OTH_DISEA_CONDI	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_Z21_PERSONAL_HISTORY_OTH_DISEA_CONDI.gz	Z87	gs://pan-ukbb-refinery/munged/icd10-Z87-both_sexes.tsv.bgz.lifted.gz.munged.gz
 Z21_PERSONAL_HISTORY_RISK__NOT_ELSEW_CLASSIFIED	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_Z21_PERSONAL_HISTORY_RISK__NOT_ELSEW_CLASSIFIED.gz	Z91	gs://pan-ukbb-refinery/munged/icd10-Z91-both_sexes.tsv.bgz.lifted.gz.munged.gz
 Z21_PERSONS_ENCOUNTERI_HEALTH_SERVI_OTH_CIRCUMSTANC1	gs://finngen-production-library-green/finngen_R6/finngen_R6_analysis_data/summary_stats/release/finngen_R6_Z21_PERSONS_ENCOUNTERI_HEALTH_SERVI_OTH_CIRCUMSTANC1.gz	Z72	gs://pan-ukbb-refinery/munged/icd10-Z72-both_sexes.tsv.bgz.lifted.gz.munged.gz
