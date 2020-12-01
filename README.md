@@ -32,4 +32,4 @@ The mapping was done using ICD-10 definitions for FinnGen endpoints. Specificall
 |matches_2|matching ICD10 codes for Pan-UKBB endpoint|
 |regex_1|regex that was used to match FinnGen endpoint to ICD10 codes|
 |regex_2|not applicable, Pan-UKBB phenotypes were not matched using regex but a mapping from Phecodes to ICD10|
-|other_hits|All of the other pan-ukbb endpoints that matched the FinnGen endpoint. Written as 'endpoint|score' and multiple values are separated with a semicolon.|
+|other_hits|All of the other pan-ukbb endpoints that matched the FinnGen endpoint. Written as 'endpoint\|score' and multiple values are separated with a semicolon.|
