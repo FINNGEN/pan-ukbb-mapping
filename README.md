@@ -33,3 +33,9 @@ The mapping was done using ICD-10 definitions for FinnGen endpoints. Specificall
 |regex_1|regex that was used to match FinnGen endpoint to ICD10 codes|
 |regex_2|not applicable, Pan-UKBB phenotypes were not matched using regex but a mapping from Phecodes to ICD10|
 |other_hits|All of the other pan-ukbb endpoints that matched the FinnGen endpoint. Written as 'endpoint\|score' and multiple values are separated with a semicolon.|
+
+## File resources
+FinnGen R6 phenotype file was acquired from [FinnGen homepage](https://www.finngen.fi/sites/default/files/inline-files/FINNGEN_ENDPOINTS_DF6_2020-06-08_public.xlsx) and exported as tab-separated file. 
+Pan-ukbb phenotype file was acquired from [pan-ukbb phenotype manifest](https://docs.google.com/spreadsheets/d/1AeeADtT0U1AukliiNyiVzVRdLYPkTbruQSk38DeutU8/edit#gid=30994804)
+ICD10 -> phecode map was acquired from [pan-ukbb github](https://raw.githubusercontent.com/atgu/ukbb_pan_ancestry/master/data/UKB_PHENOME_ICD10_PHECODE_MAP_20200109.txt)
+
