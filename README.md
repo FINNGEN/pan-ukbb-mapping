@@ -5,6 +5,11 @@ The current mapping can be seen in file `fg-ukbb-file.tsv`
 
 The mapping was done using ICD-10 definitions for FinnGen endpoints. Specifically, the mapping was done using the R6 endpoint definition, using columns COD_ICD_10, HD_ICD_10, and CANC_TOPO for ICD-10 definitions. The INCLUDE column was used for including other endpoint definitions to an endpoint. The match file is included in this repository.
 
+
+## Matching procedure and code used
+Writeup on phenotype matching for R6: https://github.com/FINNGEN/meta-analysis-runs/tree/phenomapping/PHENOMAP_R6  
+Phenotype matching script: https://github.com/FINNGEN/phenotype-matching  
+
 ## Files
 |filename|description|
 |--|--|
@@ -39,8 +44,6 @@ FinnGen R6 phenotype file was acquired from [FinnGen homepage](https://www.finng
 Pan-ukbb phenotype file was acquired from [pan-ukbb phenotype manifest](https://docs.google.com/spreadsheets/d/1AeeADtT0U1AukliiNyiVzVRdLYPkTbruQSk38DeutU8/edit#gid=30994804)  
 ICD10 -> phecode map was acquired from [pan-ukbb github](https://raw.githubusercontent.com/atgu/ukbb_pan_ancestry/master/data/UKB_PHENOME_ICD10_PHECODE_MAP_20200109.txt)  
 
-## Other resources
-Writeup on phenotype matching for R6: https://github.com/FINNGEN/meta-analysis-runs/tree/phenomapping/PHENOMAP_R6  
-Phenotype matching script: https://github.com/FINNGEN/phenotype-matching  
+
 
 
