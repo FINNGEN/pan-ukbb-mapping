@@ -10,3 +10,26 @@ The mapping was done using ICD-10 definitions for FinnGen endpoints. Specificall
 |--|--|
 | `fg_ukbb_file`| File with matching FinnGen and Pan-ukbb endpoints, as well as google cloud storage links to summary stats of both. |
 | `fg_R6_pan_ukbb_map.tsv`| mapping file between Finngen R6 phenotypes and the Pan-ukbb endpoints.|
+
+## Column descriptions
+
+### fg_ukbb_file
+|column|description|
+|---|---|
+|fg_phenotype|FinnGen phenotype name|
+|fg_link|FinnGen phenotype summary statistic link. Not all of the phenotypes have been analysed, for example due to too low case numbers.|
+|ukbb_phenotype|Pan-ukbb phenotype name, a Phecode or an ICD10 code.|
+|ukbb_link|link to Pan-UKBB phenotype summary statistic. Lifted to build 38.|
+
+### fg_R6_pan_ukbb_map.tsv
+
+|column|description|
+|---|---|
+|endpoint_1|endpoint/phenotype that all endpoint_2s were matched against, FinnGen R6 endpoints |
+|endpoint_2|best match for endpoint_1, Pan-UKBB endpoints |
+|score| similarity score between finngen(endpoint_1) and pan-ukbb (endpoint_2) endpoints|
+|matches_1|Matching ICD10 codes for FinnGen endpoint|
+|matches_2|matching ICD10 codes for Pan-UKBB endpoint|
+|regex_1|regex that was used to match FinnGen endpoint to ICD10 codes|
+|regex_2|not applicable, Pan-UKBB phenotypes were not matched using regex but a mapping from Phecodes to ICD10|
+|other_hits|All of the other pan-ukbb endpoints that matched the FinnGen endpoint. Written as 'endpoint|score' and multiple values are separated with a semicolon.|
