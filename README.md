@@ -39,3 +39,8 @@ FinnGen R6 phenotype file was acquired from [FinnGen homepage](https://www.finng
 Pan-ukbb phenotype file was acquired from [pan-ukbb phenotype manifest](https://docs.google.com/spreadsheets/d/1AeeADtT0U1AukliiNyiVzVRdLYPkTbruQSk38DeutU8/edit#gid=30994804)  
 ICD10 -> phecode map was acquired from [pan-ukbb github](https://raw.githubusercontent.com/atgu/ukbb_pan_ancestry/master/data/UKB_PHENOME_ICD10_PHECODE_MAP_20200109.txt)  
 
+## Other resources
+Writeup on phenotype matching for R6: https://github.com/FINNGEN/meta-analysis-runs/tree/phenomapping/PHENOMAP_R6  
+Phenotype matching script: https://github.com/FINNGEN/phenotype-matching  
+
+
