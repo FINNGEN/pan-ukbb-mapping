@@ -7,7 +7,7 @@ The mapping was done using ICD-10 definitions for FinnGen endpoints. Specificall
 
 
 ## Matching procedure and code used
-Writeup on phenotype matching for R6: https://github.com/FINNGEN/meta-analysis-runs/tree/phenomapping/PHENOMAP_R6  
+Writeup on phenotype matching for R6: https://github.com/FINNGEN/meta-analysis-runs/tree/main/PHENOMAP_R6  
 Phenotype matching script: https://github.com/FINNGEN/phenotype-matching  
 
 ## Files
