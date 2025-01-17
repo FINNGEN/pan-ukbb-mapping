@@ -1,9 +1,8 @@
 # Pan-UK Biobank and FinnGen phenotype mapping
 
-This repository contains a tsv file that maps the Pan-UKBB GWAS results to FinnGen results.
-The current mapping can be seen in file `fg-ukbb-file.tsv`
+This repository contains tsv files that maps the Pan-UKBB GWAS results to FinnGen results.
 
-The mapping was done using ICD-10 definitions for FinnGen endpoints. Specifically, the mapping was done using the R6 endpoint definition, using columns COD_ICD_10, HD_ICD_10, and CANC_TOPO for ICD-10 definitions. The INCLUDE column was used for including other endpoint definitions to an endpoint. The match file is included in this repository.
+The mapping was done using ICD-10 definitions for FinnGen endpoints. Specifically, the mapping was done using the released endpoint definitions, using columns COD_ICD_10, HD_ICD_10, and CANC_TOPO for ICD-10 definitions. The INCLUDE column was used for including other endpoint definitions to an endpoint. The match file is included in this repository.
 
 ## Matching procedure and code used
 
@@ -18,6 +17,7 @@ Phenotype matching script: <https://github.com/FINNGEN/phenotype-matching>
 | `fg_ukbb_file`| File with matching FinnGen and Pan-ukbb endpoints, as well as google cloud storage links to summary stats of both. |
 | `fg_R6_pan_ukbb_map.tsv`| mapping file between Finngen R6 phenotypes and the Pan-ukbb endpoints. |
 | `fg_R8_pan_ukbb_map.tsv`| mapping file between Finngen R8 phenotypes and the Pan-ukbb endpoints. |
+| `fg_R12_pan_ukbb_map.tsv`| mapping file between Finngen R12 phenotypes and the Pan-ukbb endpoints. |
 
 ## Column descriptions
 
@@ -30,7 +30,7 @@ Phenotype matching script: <https://github.com/FINNGEN/phenotype-matching>
 |ukbb_phenotype|Pan-ukbb phenotype name, a Phecode or an ICD10 code.|
 |ukbb_link|link to Pan-UKBB phenotype summary statistic. Lifted to build 38.|
 
-### fg_R6_pan_ukbb_map.tsv
+### fg_R*_pan_ukbb_map.tsv
 
 |column|description|
 |---|---|
@@ -45,6 +45,6 @@ Phenotype matching script: <https://github.com/FINNGEN/phenotype-matching>
 
 ## File resources
 
-FinnGen R6 phenotype file was acquired from [FinnGen homepage](https://www.finngen.fi/sites/default/files/inline-files/FINNGEN_ENDPOINTS_DF6_2020-06-08_public.xlsx) and exported as tab-separated file.  
+FinnGen R12 phenotype file was acquired from [FinnGen homepage](https://www.finngen.fi/sites/default/files/inline-files/FINNGEN_ENDPOINTS_DF12_Final_2023-05-17_public.xlsx) and exported as tab-separated file.  
 Pan-ukbb phenotype file was acquired from [pan-ukbb phenotype manifest](https://docs.google.com/spreadsheets/d/1AeeADtT0U1AukliiNyiVzVRdLYPkTbruQSk38DeutU8/edit#gid=30994804)  
 ICD10 -> phecode map was acquired from [pan-ukbb github](https://raw.githubusercontent.com/atgu/ukbb_pan_ancestry/master/data/UKB_PHENOME_ICD10_PHECODE_MAP_20200109.txt)  
